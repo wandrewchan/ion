@@ -6,7 +6,6 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/cloudwebrtc/go-protoo v0.0.0-20200602160428-0a199e23f7e0
 	github.com/cloudwebrtc/nats-protoo v0.0.0-20200604135451-87b43396e8de
-	github.com/coreos/etcd v3.3.22+incompatible // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/go-ole/go-ole v1.2.4 // indirect
@@ -29,7 +28,7 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/tjfoc/gmsm v1.3.2 // indirect
 	github.com/xtaci/kcp-go v5.4.20+incompatible
-	go.etcd.io/etcd v3.3.22+incompatible
+	go.etcd.io/etcd v3.4.14+incompatible
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
